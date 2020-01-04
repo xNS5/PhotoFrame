@@ -8,19 +8,19 @@ Tasker photo frame files
 
 **Software**:
 
-    Fully Kiosk Browser PLUS (~$5)
+1. Fully Kiosk Browser PLUS (~$5)
 
-    Fotoo PLUS ($9.99)
+2. Fotoo PLUS ($9.99)
 
-    Tasker ($3.49)
+3. Tasker ($3.49)
 
-    AutoApps (Free)
+4. AutoApps (Free)
 
-    AutoInput ($1.99)
+5. AutoInput ($1.99)
 
-    Airdroid (Free)
+6. Airdroid (Free)
 
-    Immersive Mode Manager ($1.99)
+7. Immersive Mode Manager ($1.99)
 
 Steps
 
