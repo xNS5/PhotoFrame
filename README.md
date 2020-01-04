@@ -22,7 +22,7 @@ Tasker photo frame files
 
 7. Immersive Mode Manager ($1.99)
 
-Steps
+**Steps**
 
 1. Get an android tablet. I didn't really know of any cheap name-brand tablet computers, so I settled on a Kindle Fire HD10 (9th gen). There was a black friday sale and I figured "What the hell"
 
