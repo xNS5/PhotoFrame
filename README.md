@@ -46,4 +46,4 @@ Anydesk -- It works to see the device, however touch interface doesn't work on a
 
 Teamviewer -- I fucking hate teamviewer, but if it works, so be it.
 
-DAKboard -- Works with Google Photos, however it's subscription based and is overall more limiteds.
+DAKboard -- Works with Google Photos, however it's subscription based and is overall more limited.
